@@ -207,8 +207,9 @@ print("el mayor elevado al menor es " + str(potencia))
 print("la raiz cubica del menor es " + str(raiz)) #se imprimen todas las funciones
 
 ```
-## *Punto 10* 
-#10
+#punto10 :elephant:
+- Desarrollar un algoritmo que determine si una matriz es mágica. Se dice que una matriz cuadrada es mágica si la suma de cada una de sus filas, de cada una de sus columnas y de cada diagonal es igual.
+```ruby
 n = int(input("Ingrese el tamaño de la matriz: "))
 A = [] #se pide un numero y se hace un arreglo
 for i in range(n):
@@ -254,11 +255,6 @@ if e:
     print("La matriz es mágica")
 else:
     print("La matriz no es mágica")
-
-
-```ruby
-#punto10 :elephant:
-- Desarrollar un algoritmo que determine si una matriz es mágica. Se dice que una matriz cuadrada es mágica si la suma de cada una de sus filas, de cada una de sus columnas y de cada diagonal es igual.
 
 ```
 #### *Eso es todo por hoy :D* _-Duva-_ LauDeLaRosa :sunflower: :tulip:
